@@ -1,4 +1,4 @@
-# Data Mining Course Project
+# Mining Locally Frequent Topics in Twitter Data
 
 This project was performed on windows 10 operating system. Initially jupyter notebooks were used for the building of code and then it was converted to python script.
 
