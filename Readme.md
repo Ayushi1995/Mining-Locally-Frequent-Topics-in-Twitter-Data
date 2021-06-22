@@ -73,10 +73,10 @@ note: 1. It is preferable to run the script on eval1 or eval2 (2 or 3) first as 
 
 ### Ways of running the implementation
 
-2. Running python script (modified_apriori.py-)- Python script in the src folder can be executed using command prompt.
+1. Running python script (modified_apriori.py-)- Python script in the src folder can be executed using command prompt.
 
    note: The python script was tested using anaconda prompt
 
-3. Running jupyter notebook file(modified_apriori.ipynb)- this file can be executed in jupyter notebook   
+2. Running jupyter notebook file(modified_apriori.ipynb)- this file can be executed in jupyter notebook   
 
   
