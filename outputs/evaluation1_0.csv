@@ -1,0 +1,9 @@
+Items,Time-interval
+diaper,"[[Timestamp('2020-08-14 12:26:00'), Timestamp('2020-08-18 12:26:00')]]"
+cheese,"[[Timestamp('2020-08-13 12:26:00'), Timestamp('2020-08-22 12:26:00')]]"
+bread,"[[Timestamp('2020-07-25 12:27:00'), Timestamp('2020-07-29 12:26:00')]]"
+wine,"[[Timestamp('2020-07-25 12:27:00'), Timestamp('2020-07-29 12:26:00')]]"
+bagel,"[[Timestamp('2020-08-14 12:26:00'), Timestamp('2020-08-22 12:26:00')]]"
+"('bread', 'wine')","[[Timestamp('2020-07-25 12:27:00'), Timestamp('2020-07-29 12:26:00')]]"
+"('cheese', 'bagel')","[[Timestamp('2020-08-19 12:26:00'), Timestamp('2020-08-22 12:26:00')]]"
+"('diaper', 'bagel')","[[Timestamp('2020-08-14 12:26:00'), Timestamp('2020-08-18 12:26:00')]]"

@@ -1,0 +1,40 @@
+,Items,Time-interval,Support in percent
+,Diaper,"Timestamp(2020-07-25 12:27:00), Timestamp(2020-08-22 12:26:00)",40.89
+,Meat,"Timestamp(2020-07-25 12:27:00), Timestamp(2020-08-22 12:26:00)",47.62
+,Cheese,"Timestamp(2020-07-25 12:27:00), Timestamp(2020-08-22 12:26:00)",50.32
+,Bread,"Timestamp(2020-07-25 12:27:00), Timestamp(2020-08-22 12:26:00)",50.48
+,Bagel,"Timestamp(2020-07-25 12:27:00), Timestamp(2020-08-22 12:26:00)",43.23
+,Pencil,"Timestamp(2020-07-30 12:26:00), Timestamp(2020-08-15 12:26:00), Timestamp(2020-08-17 12:26:00), Timestamp(2020-08-22 12:26:00)","39.46, 42.62"
+,Milk,"Timestamp(2020-07-25 12:27:00), Timestamp(2020-08-22 12:26:00)",50.80
+,Wine,"Timestamp(2020-07-25 12:27:00), Timestamp(2020-08-22 12:26:00)",43.81
+,Eggs,"Timestamp(2020-07-25 12:27:00), Timestamp(2020-08-22 12:26:00)",43.81
+,"(Bagel, Milk)","Timestamp(2020-07-25 12:27:00), Timestamp(2020-08-05 12:26:00), Timestamp(2020-08-07 12:26:00), Timestamp(2020-08-22 12:26:00)","25.98, 24.05"
+,"(Bread, Bagel)","Timestamp(2020-07-25 12:27:00), Timestamp(2020-08-22 12:26:00)",28.39
+,"(Bread, Eggs)","Timestamp(2020-08-03 12:26:00), Timestamp(2020-08-18 12:26:00)",22.54
+,"(Bread, Milk)","Timestamp(2020-07-25 12:27:00), Timestamp(2020-08-22 12:26:00)",28.66
+,"(Bread, Pencil)","Timestamp(2020-07-30 12:26:00), Timestamp(2020-08-15 12:26:00), Timestamp(2020-08-17 12:26:00), Timestamp(2020-08-22 12:26:00)","22.65, 22.81"
+,"(Bread, Wine)","Timestamp(2020-07-25 12:27:00), Timestamp(2020-08-22 12:26:00)",24.44
+,"(Cheese, Bagel)","Timestamp(2020-08-12 12:26:00), Timestamp(2020-08-22 12:26:00)",23.08
+,"(Cheese, Bread)","Timestamp(2020-07-25 12:27:00), Timestamp(2020-08-07 12:26:00), Timestamp(2020-08-09 12:26:00), Timestamp(2020-08-22 12:26:00)","25.97, 23.81"
+,"(Cheese, Eggs)","Timestamp(2020-07-25 12:27:00), Timestamp(2020-08-22 12:26:00)",30.03
+,,,
+,Items,Time-interval,Support %
+,"(Cheese, Milk)","Timestamp(2020-07-25 12:27:00), Timestamp(2020-08-03 12:26:00), Timestamp(2020-08-05 12:26:00), Timestamp(2020-08-21 12:26:00)","36.70, 30.27"
+,"(Cheese, Wine)","Timestamp(2020-07-25 12:27:00), Timestamp(2020-08-22 12:26:00)",27.16
+,"(Diaper, Bagel)","Timestamp(2020-07-25 12:27:00), Timestamp(2020-07-31 12:26:00)",25.00
+,"(Diaper, Bread)","Timestamp(2020-07-25 12:27:00), Timestamp(2020-07-31 12:26:00), Timestamp(2020-08-09 12:26:00), Timestamp(2020-08-18 12:26:00)","32.47, 35.29"
+,"(Diaper, Cheese)","Timestamp(2020-07-25 12:27:00), Timestamp(2020-07-31 12:26:00), Timestamp(2020-08-12 12:26:00), Timestamp(2020-08-18 12:26:00)","28.57, 28.99"
+,"(Diaper, Meat)","Timestamp(2020-07-25 12:27:00), Timestamp(2020-07-31 12:26:00), Timestamp(2020-08-09 12:26:00), Timestamp(2020-08-18 12:26:00)","28.38, 23.96"
+,"(Diaper, Milk)","Timestamp(2020-07-25 12:27:00), Timestamp(2020-07-31 12:26:00), Timestamp(2020-08-14 12:26:00), Timestamp(2020-08-18 12:26:00)","23.94, 25.00"
+,"(Diaper, Pencil)","Timestamp(2020-07-30 12:26:00), Timestamp(2020-08-02 12:26:00), Timestamp(2020-08-09 12:26:00), Timestamp(2020-08-14 12:26:00), Timestamp(2020-08-17 12:26:00), Timestamp(2020-08-20 12:26:00)","28.21, 30.19, 28.21"
+,"(Diaper, Wine)","Timestamp(2020-07-25 12:27:00), Timestamp(2020-08-07 12:26:00), Timestamp(2020-08-14 12:26:00), Timestamp(2020-08-22 12:26:00)","24.18, 26.88"
+,"(Meat, Bagel)","Timestamp(2020-07-25 12:26:00), Timestamp(2020-07-28 12:26:00), Timestamp(2020-08-17 12:26:00), Timestamp(2020-08-22 12:26:00)","34.62, 23.73"
+,"(Meat, Bread)","Timestamp(2020-07-25 12:27:00), Timestamp(2020-08-07 12:26:00)",22.88
+,"(Meat, Cheese)","Timestamp(2020-07-29 12:26:00), Timestamp(2020-08-14 12:26:00), Timestamp(2020-08-16 12:26:00), Timestamp(2020-08-22 12:26:00)","32.60, 39.44"
+,"(Meat, Eggs)","Timestamp(2020-07-29 12:26:00), Timestamp(2020-08-14 12:26:00), Timestamp(2020-08-16 12:26:00), Timestamp(2020-08-22 12:26:00)","28.73, 27.78"
+,"(Meat, Milk)","Timestamp(2020-07-29 12:26:00), Timestamp(2020-08-14 12:26:00), Timestamp(2020-08-16 12:26:00), Timestamp(2020-08-22 12:26:00)","25.41, 28.99"
+,"(Meat, Wine)","Timestamp(2020-07-25 12:27:00), Timestamp(2020-07-30 12:26:00), Timestamp(2020-08-01 12:26:00), Timestamp(2020-08-17 12:26:00), Timestamp(2020-08-19 12:26:00), Timestamp(2020-08-22 12:26:00)","34.38, 25.71, 37.50"
+,"(Milk, Eggs)","Timestamp(2020-07-25 12:27:00), Timestamp(2020-08-03 12:26:00), Timestamp(2020-08-05 12:26:00), Timestamp(2020-08-21 12:26:00)","27.36, 26.23"
+,"(Milk, Wine)","Timestamp(2020-07-25 12:27:00), Timestamp(2020-07-30 12:26:00), Timestamp(2020-08-11 12:26:00), Timestamp(2020-08-17 12:26:00)","33.33, 28.38"
+,"(Pencil, Wine)","Timestamp(2020-07-30 12:26:00), Timestamp(2020-08-06 12:26:00), Timestamp(2020-08-17 12:26:00), Timestamp(2020-08-22 12:26:00)","23.81, 24.59"
+,"(Wine, Eggs)","Timestamp(2020-07-25 12:27:00), Timestamp(2020-08-09 12:26:00), Timestamp(2020-08-11 12:26:00), Timestamp(2020-08-22 12:26:00)","25.75, 25.78"
